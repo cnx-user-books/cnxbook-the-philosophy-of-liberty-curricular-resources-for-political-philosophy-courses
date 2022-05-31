@@ -1,0 +1,170 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col23833</md:content-id>
+    <md:title>The Philosophy of Liberty: Curricular Resources for Political Philosophy Courses</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2469bdb5-1467-4c75-b6ee-22f6ffd314cb</md:uuid>
+<md:slug>the-philosophy-of-liberty-curricular-resources-for-political-philosophy-courses</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m65515"/>
+    <col:subcollection>
+      <md:title>Classical Liberalism</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Schools of Thought in Classical Liberalism</md:title>
+          <col:content>
+            <col:module document="m64960"/>
+            <col:module document="m64953"/>
+            <col:subcollection>
+              <md:title>Public Choice Economics</md:title>
+              <col:content>
+                <col:module document="m64967"/>
+                <col:module document="m66918"/>
+                <col:module document="m64834"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>The Austrian School of Economics</md:title>
+              <col:content>
+                <col:module document="m64966"/>
+                <col:module document="m64831"/>
+                <col:module document="m64837"/>
+                <col:module document="m66933"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Natural Rights</md:title>
+              <col:content>
+                <col:module document="m64954"/>
+                <col:module document="m65289"/>
+                <col:module document="m65290"/>
+              </col:content>
+            </col:subcollection>
+            <col:module document="m64964"/>
+            <col:module document="m64957"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m64378"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Capitalism vs. Socialism</md:title>
+      <col:content>
+        <col:module document="m66292"/>
+        <col:module document="m66307"/>
+        <col:module document="m66304"/>
+        <col:module document="m66299"/>
+        <col:module document="m66310"/>
+        <col:module document="m66295"/>
+        <col:module document="m66303"/>
+        <col:module document="m66290"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Equality</md:title>
+      <col:content>
+        <col:module document="m65505"/>
+        <col:module document="m65498"/>
+        <col:module document="m65456"/>
+        <col:module document="m65440"/>
+        <col:module document="m64852"/>
+        <col:module document="m64836"/>
+        <col:subcollection>
+          <md:title>Does Inequality Matter?: Exploring Poverty and Finding a Way Out</md:title>
+          <col:content>
+            <col:module document="m66246"/>
+            <col:module document="m66245"/>
+            <col:module document="m66247"/>
+            <col:module document="m66249"/>
+            <col:module document="m66248"/>
+            <col:module document="m66243"/>
+            <col:module document="m66250"/>
+            <col:module document="m66252"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Political Philosophy</md:title>
+      <col:content>
+        <col:module document="m66020"/>
+        <col:module document="m66021"/>
+        <col:module document="m66023"/>
+        <col:module document="m66026"/>
+        <col:module document="m66027"/>
+        <col:module document="m66028"/>
+        <col:module document="m66029"/>
+        <col:module document="m66032"/>
+        <col:module document="m66035"/>
+        <col:module document="m66037"/>
+        <col:module document="m66038"/>
+        <col:module document="m66039"/>
+        <col:module document="m66041"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liberty</md:title>
+      <col:content>
+        <col:module document="m65506"/>
+        <col:module document="m65501"/>
+        <col:subcollection>
+          <md:title>Liberty and Morality</md:title>
+          <col:content>
+            <col:module document="m65504"/>
+            <col:module document="m65495"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Road to Serfdom: Condensed Addition by F.A. Hayek</md:title>
+          <col:content>
+            <col:module document="m66925"/>
+            <col:module document="m66923"/>
+            <col:module document="m66924"/>
+            <col:module document="m66928"/>
+            <col:module document="m66931"/>
+            <col:module document="m66926"/>
+            <col:module document="m66930"/>
+            <col:module document="m66929"/>
+            <col:module document="m66922"/>
+            <col:module document="m66927"/>
+            <col:module document="m66921"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Philosophical Thought Experiments</md:title>
+      <col:content>
+        <col:module document="m64658"/>
+        <col:module document="m64379"/>
+        <col:module document="m65492"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Scottish Enlightenment</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Introduction to the Giants of the Scottish Enlightenment</md:title>
+          <col:content>
+            <col:module document="m64654"/>
+            <col:module document="m64656"/>
+            <col:module document="m64657"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m64833"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>What Are Rights?</md:title>
+      <col:content>
+        <col:module document="m65449"/>
+        <col:module document="m65451"/>
+        <col:module document="m65446"/>
+        <col:module document="m65508"/>
+        <col:module document="m65454"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

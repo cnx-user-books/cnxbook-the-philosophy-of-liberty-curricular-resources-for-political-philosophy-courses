@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fuzzy Snapshots</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66247</md:content-id>
+  <md:title>Fuzzy Snapshots</md:title>
+  <md:abstract>According to Professor Sean Mulholland of Stonehill College, statistics about income inequality provides only a fuzzy snapshot of the economy. In order get a full snapshot, Mulholland says, we also need to examine income mobility.</md:abstract>
+  <md:uuid>ab808ebb-e926-4b9c-9a4d-2ac4948e51cd</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><figure id="moonlanding-youtube"><media id="yt-media" display="block" alt="Video">
+    <iframe width="600" height="400" src="https://www.youtube.com/embed/d32in2SuQIw"/>
+ </media>
+<caption>"Mobility Intro" by the Institute for Humane Studies</caption></figure></para><para id="eip-946"><title>Description</title>According to Professor Sean Mulholland of Stonehill College, statistics about income inequality provides only a fuzzy snapshot of the economy. In order get a full snapshot, Mulholland says, we also need to examine income mobility.</para><section id="eip-798"><title>Supplementary Videos</title><para id="eip-233">
+<list id="grocerylist" list-type="enumerated" number-style="arabic"><item><link url="https://www.youtube.com/watch?v=UbueX92CKPk" window="new">Is there Income Mobility in America?</link>: Are the rich getting richer while the poor get poorer? Professor Sean Mulholland uses several statistical measures and finds that this common perception may not be accurate. A surface-level examination of statistics may indicate that the poor are getting poorer, but a more thorough study shows that there is more income mobility in the United States than many might think. </item>
+
+</list></para></section><exercise id="eip-821"><problem id="eip-314">
+  <para id="eip-994">From 1967 to 2009, the share of total income for the poorest Americans decreased. However,
+<list id="mobility" list-type="enumerated" number-style="lower-alpha"><item> the share of total income was measured incorrectly in 1967.</item>
+  <item>the actual amount of income increased.</item>
+  <item> social programs made wealth unnecessary.</item>
+  <item> the share of income for the wealthiest Americans also fell.</item>
+</list></para></problem>
+
+<solution id="eip-717">
+  <para id="eip-838">b. the actual amount of income increased.</para></solution>
+</exercise></content>
+
+</document>
